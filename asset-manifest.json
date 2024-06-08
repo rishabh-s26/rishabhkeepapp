@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rishabhkeepapp/static/css/main.ab5a4111.css",
+    "main.js": "/rishabhkeepapp/static/js/main.a629d582.js",
+    "static/media/R.png": "/rishabhkeepapp/static/media/R.1b649b1ed5add2a47793.png",
+    "index.html": "/rishabhkeepapp/index.html",
+    "main.ab5a4111.css.map": "/rishabhkeepapp/static/css/main.ab5a4111.css.map",
+    "main.a629d582.js.map": "/rishabhkeepapp/static/js/main.a629d582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab5a4111.css",
+    "static/js/main.a629d582.js"
+  ]
+}
